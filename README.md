@@ -1,10 +1,9 @@
 ### Olá! Eu sou Stéfani Walter
 
-- 🔭 Eu estou trabalhando com Desenvolvimento Web
-- 🌱 Eu estou estudando HTML5, CSS and JavaScript
-- 📫 Contate-me pelo email: stefaniwaltern@gmail.com
+- 🔭 Desenvolvimento Web
+- 🌱 Aprendendo HTML5, CSS and JavaScript
 - 😄 Pronomes: ela/dela
-
+- 💜 Borahae
 
 <div align="center">
   <a href="https://github.com/stefaniwalter">
