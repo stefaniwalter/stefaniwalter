@@ -3,7 +3,6 @@
 - 🔭 Desenvolvimento Web
 - 🌱 Aprendendo HTML5, CSS and JavaScript
 - 😄 Pronomes: ela/dela
-- 💜 Borahae
 
 <div align="center">
   <a href="https://github.com/stefaniwalter">
